@@ -3,7 +3,7 @@ Fruit detection is a project based on artificial intelligence and computer visio
 ## Screenshots
 
 ### Fruit Detection
-![Detection](FB.jpg)
+![Detection](SIC vl.jpg)
 
 ### Result
 ![Result](images/result.jpg)
