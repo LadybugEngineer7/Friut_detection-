@@ -23,4 +23,9 @@ one of Indian origin. The device can evaluate how ripe the fruit is by measuring
 </p>
 
 ### Detection Result
-![Detection](images/ap.jpg)
+<p align="center">
+  <img src="images/a266ab2e-9f12-4151-afe1-906182b1fa6d.jpg" width="200">
+</p>
+
+
+
