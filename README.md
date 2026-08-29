@@ -13,10 +13,7 @@ Other solutions you may soon be able to tell if a fruit is ripe or not, thanks t
 one of Indian origin. The device can evaluate how ripe the fruit is by measuring the growth of chlorophyll in the fruit’s skin under ultraviolet rays.​
 ## 📸 Project Demo
 Input
-![Detection](images/bana.jpg)
-![Detection](images/ap.jpg)
-![Detection](images/or.jpg)
-![Detection](images/st.jpg)
+![Detection](images/bana.jpg) ![Detection](images/ap.jpg) ![Detection](images/or.jpg) ![Detection](images/st.jpg)
 
 
 Detection Result
